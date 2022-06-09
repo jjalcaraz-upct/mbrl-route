@@ -56,7 +56,7 @@ The environment is implemented in:
 
 A modified version for DQN is provided
 
-- route_environment_DQN.py
+- route_environment_q.py
 
 The following files provide auxiliary methods:
 
