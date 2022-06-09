@@ -4,11 +4,11 @@
 
 Source code of the paper "[Online Model-Based Reinforcement Learning for Decision-Making in Long Distance Routes](paper/manuscript.pdf)" accepted for publication on Elsevier's Transportation Research Part E. The code includes a simulator environment that generates the successive stages in a long-distance transport route with time windows. At each stage, a decision regarding driving and rest periods must be made within the options allowed by the European driving regulations (EC Regulation 561/2006): e.g. take a full break, take a split break, make a split rest, extend daily driving time, reduce daily rest time, etc. The goal is to arrive at each customer within its delivery time window while complying with European regulations on driving hours and rest periods.
 
-<img src="img/rollout.png" align="center" width="40%"/>
+<img src="img/route_example.png" align="center" width="40%"/>
 
 To make these en-route decisions we propose a novel model-based reinforcemnt learning strategy combining model predictive control, rollout, and Monte Carlo tree search. A DQN agent is also provided for comparison.
 
-<img src="img/route_example.png" align="center" width="40%"/>
+<img src="img/rollout.png" align="center" width="40%"/>
 
 ## Acknowledgements
 
