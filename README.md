@@ -22,15 +22,15 @@ This work was supported by Consejeria de Desarrollo Economico, Turismo y Empleo,
 
 The environment and the rollout agent have been tested in Python 3.5 and 3.6. No specific instalation instructions are required. The only required package is:
 
-scipy==1.5.4
+scipy 1.5.4
 
 To generate and represent the performance results the following packages are required
 
-numpy==1.19.1  
-matplotlib==3.3.4  
+numpy 1.19.1  
+matplotlib 3.3.4  
 
 To run the DQN agent, Keras is required. The tested version is:
-Keras==2.2.1
+Keras 2.2.1
 
 ### Experiment scripts
 
