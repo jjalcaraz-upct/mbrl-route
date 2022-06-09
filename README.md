@@ -45,7 +45,7 @@ And a jupyter notebook for plotting results:
 
 - RL_results.ipynb: plots the histograms comparing the results of each agent (rollout, baseline, DQN) in the 200 simulation runs of each route (figure 4 of the paper).
 
-<img src="figures/histograms.png" align="center" width="80%"/>  
+<img src="img/histograms.png" align="center" width="80%"/>  
 
 
 ## Project structure
