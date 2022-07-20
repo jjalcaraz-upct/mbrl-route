@@ -6,7 +6,7 @@ Source code of the paper "[Online Model-Based Reinforcement Learning for Decisio
 
 <img src="img/route_example.png" align="center" width="40%"/>
 
-To make these en-route decisions we propose a novel model-based reinforcemnt learning strategy combining model predictive control, rollout, and Monte Carlo tree search. A DQN agent is also provided for comparison.
+To make these en-route decisions we propose a novel model-based reinforcement learning strategy combining model predictive control, rollout, and Monte Carlo tree search. A DQN agent is also provided for comparison.
 
 <img src="img/rollout.png" align="center" width="40%"/>
 
