@@ -1,4 +1,4 @@
-# Model-based RL for en-route decision making
+# Model-based RL for decision-making in long distance routes
 
 ## Description
 
@@ -77,7 +77,7 @@ The ```routes``` directory contains the data files with the description of each 
 The code of this repository:
 
 @misc{mbrl_decisions,  
-    title={Model-based RL for route timing decisions},
+    title={Model-based RL for decision-making in long distance routes},
     author={Juan J. Alcaraz},  
     howpublished = {\url{https://github.com/jjalcaraz-upct/mbrl-route/}},  
     year={2022}  
