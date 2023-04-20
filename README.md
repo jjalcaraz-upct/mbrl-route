@@ -1,4 +1,4 @@
-# Model-based RL for route timing decisions
+# Model-based RL for en-route decision making
 
 ## Description
 
