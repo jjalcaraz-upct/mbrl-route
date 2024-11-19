@@ -12,7 +12,7 @@ To make these en-route decisions we propose a novel model-based reinforcement le
 
 ## Acknowledgements
 
-This work was supported by Consejeria de Desarrollo Economico, Turismo y Empleo, Region de Murcia, under the RIS3Mur project grant SiSPERT (ref. 2I16SAE00023) and by Grant PID2020-116329GB-C22 funded by MCIN / AEI / 10.13039/501100011033  
+This work was supported by Consejeria de Desarrollo Economico, Turismo y Empleo, Region de Murcia, under the RIS3Mur project grant SiSPERT (ref. 2I16SAE00023) and by project [AriSe2](https://arise.upct.es) supported by Grant PID2020-116329GB-C22 funded by MICIU / AEI / 10.13039/501100011033
 
 <img src="img/MICINN_Gob_Web_AEI_2.jpg" align="right" width="40%"/>
 
